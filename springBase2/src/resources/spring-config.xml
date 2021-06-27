@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--创建对象并给定属性-->
+    <bean id="user" class="main.com.alibaba.model.User">
+        <property name="name" value="张三"/>
+        <property name="age" value="18"/>
+    </bean>
+
+    <!---->
+    <!--&lt;!&ndash;我们可以将这个bean理解为我们的javaBean，其中两个property标签即表示给User类中的name和age属性赋值！&ndash;&gt;-->
+    <!--<bean id="user2" class="main.com.User" scope="singleton">-->
+
+    <!--&lt;!&ndash;我们可以将这个bean理解为我们的javaBean，其中两个property标签即表示给User类中的name和age属性赋值！&ndash;&gt;-->
+    <!--<bean id="user" class="main.com.User" scope="singleton" init-method="init" destroy-method="destroy">-->
+
+
+
+
+
+</beans>

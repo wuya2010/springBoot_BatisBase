@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatisBase/mybatisBase.iml" filepath="$PROJECT_DIR$/mybatisBase/mybatisBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBase2/springBase2.iml" filepath="$PROJECT_DIR$/springBase2/springBase2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springBoot_BatisBase.iml" filepath="$PROJECT_DIR$/.idea/springBoot_BatisBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootbase/springbootbase.iml" filepath="$PROJECT_DIR$/springbootbase/springbootbase.iml" />
+    </modules>
+  </component>
+</project>
